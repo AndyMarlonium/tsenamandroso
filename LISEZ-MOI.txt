@@ -1,0 +1,14 @@
+TSENA MANDROSO — mise en ligne sur GitHub Pages
+
+Contenu du dossier :
+  index.html            page a ouvrir (installable sur l'ecran d'accueil)
+  app.html              l'application (code protege)
+  manifest.webmanifest  nom et icone de l'app
+  sw.js                 fonctionnement hors ligne
+  icon-192.png          icone
+  icon-512.png          icone
+
+A NE PAS METTRE EN LIGNE :
+  le fichier "Generateur de codes - PRIVE.html" reste sur ton ordinateur.
+
+Etapes : voir les instructions envoyees dans la conversation.
